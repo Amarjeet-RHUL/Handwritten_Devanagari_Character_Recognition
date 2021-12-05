@@ -1,0 +1,2 @@
+# Handwritten_Devanagari_Character_Recognition
+Handwritten_Hindi-Devanagari_Character_Recognition using CNN
